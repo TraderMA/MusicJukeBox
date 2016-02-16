@@ -9,7 +9,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/bpLaPE">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>1. Desde siempre</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">193.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -20,7 +20,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/4b3tIp">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>2. Dream Catcher</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">297.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -31,7 +31,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/F0s6t1">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>4. Inca Dance</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">193.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -42,7 +42,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/5CvkJf">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>6. Mother Earth</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">281.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -53,7 +53,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/LfCe8n">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>8. Papel de plata</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">260.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -64,7 +64,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/m5F7J6">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>10. Trigusary</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">232.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -75,7 +75,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/9t7Pb6">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>11. Amanecer audino</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">319.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
@@ -86,7 +86,7 @@
 
     <AudioTrack rdf:about="http://chirb.it/cFIPsz">
         <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
-        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <description>13. Puerta del sol</description>
         <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">343.0</duration>
         <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
         <title>CHUMA</title>
