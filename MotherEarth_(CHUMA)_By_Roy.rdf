@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated with TradeMA by Roy Siu -->
+
+<rdf:RDF xmlns="http://www.w3.org/ns/ma-ont#"
+    xmlns:ma="http://www.w3.org/ns/ma-ont#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+    <AudioTrack rdf:about="http://chirb.it/bpLaPE">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">193.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>1.</title>
+        <title>Desde siempre</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/4b3tIp">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">297.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>2.</title>
+        <title>Dream Catcher</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/F0s6t1">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">193.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>4.</title>
+        <title>Inca Dance</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/5CvkJf">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">281.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>6.</title>
+        <title>Mother Earth</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/LfCe8n">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">260.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>8.</title>
+        <title>Papel de plata</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/m5F7J6">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">232.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>10.</title>
+        <title>Trigusary</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/9t7Pb6">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">319.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>11.</title>
+        <title>Amanecer audino</title>
+    </AudioTrack>
+
+    <AudioTrack rdf:about="http://chirb.it/cFIPsz">
+        <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#MediaResource"/>
+        <description>Brandenburg Concerto No.1 in F, BWV 1046</description>
+        <duration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">343.0</duration>
+        <releaseDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-08</releaseDate>
+        <title>CHUMA</title>
+        <title>Mother Earh</title>
+        <title>13.</title>
+        <title>Puerta del sol</title>
+    </AudioTrack>
+
+</rdf:RDF>
